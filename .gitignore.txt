@@ -1,0 +1,24 @@
+# Build / binaries
+*.exe
+*.obj
+*.pdb
+*.lib
+*.dll
+build/
+cmake-build*/
+
+# Visual Studio / VSCode stuff
+.vs/
+.vscode/
+Debug/
+Release/
+x64/
+ipch/
+
+# Python venv
+venv/
+.env/
+
+# JSON runtime files
+book_data.json
+commands.txt

@@ -1,0 +1,1 @@
+{ "bids": [{ "price": 105, "qty": 10 }], "asks": [], "all_orders": [{ "id": 1, "side": "Buy", "price": 105, "qty": 10, "type": "GTC" }] }

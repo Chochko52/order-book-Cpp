@@ -1,0 +1,4 @@
+C:/Users/bardu/CLionProjects/OrderBookFinal/cmake-build-debug-mingw/CMakeFiles/OrderBookFinal.dir
+C:/Users/bardu/CLionProjects/OrderBookFinal/cmake-build-debug-mingw/CMakeFiles/OrderBookApp.dir
+C:/Users/bardu/CLionProjects/OrderBookFinal/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/bardu/CLionProjects/OrderBookFinal/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
